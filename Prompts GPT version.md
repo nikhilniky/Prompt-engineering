@@ -1,5 +1,5 @@
-Chatbot & Large Language Model: Best Practices for Effective Usage
-Welcome to the Read Me file for using chatbots or large language models effectively! This document provides tips and guidelines to maximize the utility of language models and obtain accurate and relevant responses.
+##Chatbot & Large Language Model: Best Practices for Effective Usage
+##Welcome to the Read Me file for using chatbots or large language models effectively! This document provides tips and guidelines to maximize the utility of language models and obtain accurate and relevant responses.
 
 1. Output Variability
 Keep in mind that when you give the same input multiple times, the output from the language model might not be consistent. Language models can generate diverse responses based on their training data and the input context.
