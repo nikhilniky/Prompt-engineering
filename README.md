@@ -46,7 +46,10 @@ If you have any questions, suggestions, or collaboration opportunities, you can 
  ## List of files to read in order
 
 
-[Pattern Format](https://github.com/nikhilniky/Prompt-engineering/blob/main/prompts)
+[Prompts](https://github.com/nikhilniky/Prompt-engineering/blob/main/prompts)
+[GPT version of prompt notes](https://github.com/nikhilniky/Prompt-engineering/blob/main/Prompts%20GPT%20version.md)
+[Pattern Format](https://github.com/nikhilniky/Prompt-engineering/blob/main/patterns%20prompt.md)
+
 
 
 ...
