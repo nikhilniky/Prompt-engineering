@@ -22,7 +22,7 @@
   Specify Length or Format: If you want a concise answer or a specific format (e.g., definition, pros and cons), mention it explicitly. 
   For example, instead of asking "What do you think of AI?" you could ask "Briefly explain the pros and cons of AI."
   
-  I prompted: how tLinkedIne my LinkedIn profile
+  I prompted: how LinkedIn my LinkedIn profile
   ChatGPT
   To receive a tailored response, it would be helpful to include some specific keywords or phrases in your question. Here's a suggestion to make your question more specific:
   
@@ -31,3 +31,29 @@
   Better version: "What are some effective tips to enhance my LinkedIn profile and attract more attention from potential employers?"
   
   Would you like to use the better version, or do you prefer to stick with your original question? Let me know your preference, and I'll be happy to provide guidance on improving your LinkedIn profile!
+
+
+-=====================
+we can have prompts at the same time like now, at the moment, and span of time also
+ It's going to continue to influence the output of the large language model. So it is we can have immediate 
+prompts that right now, right at this moment, do something, but we can also have prompts that span time. 
+And in this case, that's what we're doing. We're creating something from now on go and do this. Now, we're going to have an immediate prompt, which is what color is the sky?
+We're asking this right now and now our earlier prompt that we provided that was spanning time is impacting how the large language model responds to our questions. 
+
+--------------------------------
+
+we can run large language models in local
+However, there have been efforts to develop more efficient and smaller versions of language models that can be used locally on less powerful devices.
+For example, OpenAI has released smaller versions of GPT, such as GPT-2 and GPT-Neo, which are more manageable in terms of resource requirements and can be run on local machines.
+
+Using a language model locally typically involves setting up the required software, libraries, and dependencies, as well as downloading the
+model weights. While smaller models can be run on a reasonably powerful computer, the latest and larger models like GPT-3 would likely still 
+require significant computational resources and might be more suitable for cloud-based deployment.
+
+It's important to note that advancements in technology and model optimization could change the landscape in the future, 
+making it more feasible to use larger language models locally. However, it's always a trade-off between model size, performance, and the resources available on the target machine.
+
+If you are running local we are good with our information compared to using chatgpt like online or server-connected models
+----------------------------------------------
+
+
