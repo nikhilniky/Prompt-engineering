@@ -1,24 +1,33 @@
--> in chatgpt or Large language model we certainly not get same outpu when we give same input multiple times 
--> we can use like time specific things like from now on last two inputs like this etc to make it clear and make our inputs refined 
-
-Absolutely, using key words or specific phrasing in your questions can help guide the model and get more accurate and relevant responses. 
-By providing clear and concise instructions, you can improve the chances of receiving the information you need. Here are some tips to make your questions more effective:
-
-Be Specific: Include specific keywords or phrases related to your topic of interest.
-For example, instead of asking "Tell me about Prompt Engineering," you could ask "What are the key concepts of Prompt Engineering?"
-
-Use Action Verbs: Frame your questions with action verbs to prompt the model to provide actionable information. 
-For instance, instead of asking "Can you explain Prompt Engineering?" you could ask "Explain the process of Prompt Engineering."
-
-Provide Context: Give a brief context or background to help the model understand the context of your question. 
-For example, instead of asking "What are the best programming languages?" you could ask "In the context of web development, what are the best programming languages?"
-
-Ask for Examples: If you want illustrative examples, specifically request them in your question. 
-For instance, instead of asking "What is a neural network?" you could ask "Can you provide an example of a neural network?"
-
-Use Bullet Points or Lists: When asking for a list of items or steps, use bullet points or numbered lists to make it clear to the model. 
-For example, instead of asking "How do I improve my productivity?" you could ask "List five tips to improve productivity."
-
-Specify Length or Format: If you want a concise answer or a specific format (e.g., definition, pros and cons), mention it explicitly. 
-For example, instead of asking "What do you think of AI?" you could ask "Briefly explain the pros and cons of AI."
-
+  -> In chatbot or Large language model we certainly do not get the same output when we give the same input multiple times 
+  -> We can use like time specific things like from now on last two inputs like this etc to make it clear and make our inputs refined 
+  
+  Using keywords or specific phrasing in your questions can help guide the model and get more accurate and relevant responses. 
+  By providing clear and concise instructions, you can improve the chances of receiving the information you need. Here are some tips to make your questions more effective:
+  
+  Be Specific: Include specirds or phrases related to your topic of interest.
+  For example, instead of asking "Tell me about Prompt Engineering," you could ask "What are the key concepts of Prompt Engineering?"
+  
+  Use Action Verbs: Frame your questions with action verbs to prompt the model to provide actionable information. 
+  For instance, instead of asking "Can you explain Prompt Engineering?" you could ask "Explain the process of Prompt Engineering."
+  
+  Provide Context: Give a brief context or background to help the model understand the context of your question. 
+  For example, instead of asking "What are the best programming languages?" you could ask "In the context of web development, what are the best programming languages?"
+  
+  Ask for Examples: If you want illustrative examples, specifically request them in your question. 
+  For instance, instead of asking "What is a neural network?" you could ask "Can you provide an example of a neural network?"
+  
+  Use Bullet Points or Lists: When asking for a list of items or steps, use bullet points or numbered lists to make it clear to the model. 
+  For example, instead of asking "How do I improve my productivity?" you could ask "List five tips to improve productivity."
+  
+  Specify Length or Format: If you want a concise answer or a specific format (e.g., definition, pros and cons), mention it explicitly. 
+  For example, instead of asking "What do you think of AI?" you could ask "Briefly explain the pros and cons of AI."
+  
+  I prompted: how tLinkedIne my LinkedIn profile
+  ChatGPT
+  To receive a tailored response, it would be helpful to include some specific keywords or phrases in your question. Here's a suggestion to make your question more specific:
+  
+  Original question: "How to improve my LinkedIn profile."
+  
+  Better version: "What are some effective tips to enhance my LinkedIn profile and attract more attention from potential employers?"
+  
+  Would you like to use the better version, or do you prefer to stick with your original question? Let me know your preference, and I'll be happy to provide guidance on improving your LinkedIn profile!
