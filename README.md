@@ -46,7 +46,7 @@ If you have any questions, suggestions, or collaboration opportunities, you can 
  ## List of files to read in order
 
 
-![Pattern Format](https://github.com/nikhilniky/Prompt-engineering/blob/main/prompts)
+[Pattern Format](https://github.com/nikhilniky/Prompt-engineering/blob/main/prompts)
 
 
 ...
