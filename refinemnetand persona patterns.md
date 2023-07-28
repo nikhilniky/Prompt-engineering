@@ -39,7 +39,10 @@ GitHub provides some built-in features to track repository activity, which might
 By answering these additional questions, we can get a better understanding of who is reading your GitHub notes and what methods you can use to track or identify your readers. If you have more details or specific tools you use, please provide them, and I'll be glad to assist you further!
 
 
+## Audience Persona Pattern
+user: Explain large language models to me. Assume that I am an Indian rural mother
 
+user input 2 :the person don't know tech
 
 
 
