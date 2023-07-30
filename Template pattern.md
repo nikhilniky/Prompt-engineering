@@ -21,3 +21,6 @@ Sure, I'm ready to fill in the placeholders with my responses. Please provide th
 
 
 ![image](https://github.com/nikhilniky/Prompt-engineering/assets/37295610/7ac76e6e-ed0b-4db9-9d9b-1f5df23d5dac)
+
+
+![image](https://github.com/nikhilniky/Prompt-engineering/assets/37295610/249bcd16-35aa-4588-9faf-054efb41e0d0)
