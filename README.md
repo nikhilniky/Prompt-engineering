@@ -49,8 +49,13 @@ If you have any questions, suggestions, or collaboration opportunities, you can 
 - [Prompts](https://github.com/nikhilniky/Prompt-engineering/blob/main/prompts)
 - [GPT version of prompt notes](https://github.com/nikhilniky/Prompt-engineering/blob/main/Prompts%20GPT%20version.md)
 - [Pattern Format](https://github.com/nikhilniky/Prompt-engineering/blob/main/patterns%20prompt.md)
-
-
+- [Refinemnetand persona patterns](https://github.com/nikhilniky/Prompt-engineering/blob/main/refinemnetand%20persona%20patterns.md)
+- [patterns2](https://github.com/nikhilniky/Prompt-engineering/blob/main/patterns2.md)
+- [fewshotprompts](https://github.com/nikhilniky/Prompt-engineering/blob/main/fewshotprompts.md) 
+- [Template pattern](https://github.com/nikhilniky/Prompt-engineering/blob/main/Template%20pattern.md)
+- [Recipe Prompt pattern](https://github.com/nikhilniky/Prompt-engineering/blob/main/Recipe%20Prompt%20pattern.md)
+- [Gameplaypattern](https://github.com/nikhilniky/Prompt-engineering/blob/main/Gameplaypattern.md)
+- [Alternative Approaches Pattern](https://github.com/nikhilniky/Prompt-engineering/blob/main/Alternative%20Approaches%20Pattern.md)
 
 ...
 
