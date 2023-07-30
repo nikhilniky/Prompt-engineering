@@ -1,5 +1,5 @@
 # Prompt Engineering Notes and Ideas
-
+Prompt Engineering can be learned by asking chatgpt provide ways to prompt this
 ## About
 
 This repository contains my notes and ideas related to Prompt Engineering, which I am learning from the Vanderbilt University course and other online resources.
