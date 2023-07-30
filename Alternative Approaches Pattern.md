@@ -23,3 +23,4 @@ at last of input just add ask first input or prompt or question
 
 
  # Semantic Filter Pattern
+![image](https://github.com/nikhilniky/Prompt-engineering/assets/37295610/df95d676-f587-456c-99cb-99d79825a638)
